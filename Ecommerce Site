@@ -1,1 +1,95 @@
 
+ 
+Created  →   May 7, 2025
+ 
+           Last update  →   Jun 9, 2025
+  
+ 
+ 
+ E-commerce Product Listing        Website 
+ 
+"Discover,Compare, Shop Smart." 
+ 
+ 
+Name :   Mohan Krishna Bhavani Prasad Sompalli
+    Course Name: Bachelor of Science in Information Technology 
+                              Email: sompallimohankrishna004@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Introduction 
+Purpose:The purpose of this roadmap is to guide the development of a basic 
+Ecommerce Product Listing Website. The roadmap outlines the key steps involved 
+in creating a responsive and user-friendly interface that allows customers to browse 
+products by category, view prices, filter results, and access product details. It also 
+serves as a learning project for mastering core web development concepts such as 
+HTML/CSS layout design, dynamic JavaScript functionality, and UI 
+responsiveness. 
+Scope:This roadmap covers the development of the frontend of an Ecommerce 
+website, including 
+● Homepage with category listing 
+● Product grid page with filter functionality 
+● Optional product detail view 
+● Responsive layout for various screen sizes 
+● Static product data stored in JavaScript 
+● Backend implementation (e.g., user authentication, cart persistence, payment 
+gateway) 
+● Database integration 
+● Advanced features like reviews, search autocomplete, or admin panels 
+Importance:This roadmap is significant as it aligns with the learning objectives of 
+foundational web development and UI/UX principles. From an educational 
+perspective, it strengthens skills in structuring projects, writing modular code, and 
+creating clean, responsive designs. For organizations or learners aiming to build 
+scalable ecommerce systems, this roadmap serves as the first building block toward 
+a full-stack Ecommerce platform. 
+3. Project Structure: The project files are organized in a modular structure for 
+clarity and maintainability 
+ 
+ 
+ 
+ 
+4. Technical Stack: 
+● Frontend: HTML5, CSS3, JavaScript (Vanilla JS) 
+● Design: Responsive design using media queries 
+● Version Control: Git and GitHub 
+● Deployment Platform: GitHub 
+5. Features and Functionalities 
+● Product Categories: Homepage lists available categories like electronics, 
+clothing, and accessories. 
+● Product Listing: On selecting a category, a grid of products is displayed with 
+name, image, and price. 
+● Filtering Feature: Users can filter products dynamically based on price ranges. 
+● Product Detail Page (Optional): Clicking on a product opens a detailed view with 
+description and full image. 
+● Responsive UI: The layout adapts gracefully to all screen sizes from desktop to 
+mobile. 
+● User Interface: Clean and consistent styling with emphasis on readability and 
+usability. 
+6. Screenshots and Visuals: 
+a.Homepage with Product Categories 
+b.Page Displaying Product Grid 
+ 
+ 
+ 
+ 
+ 
+c.Add to Cart: 
+8. Challenges Faced 
+● Ensuring mobile responsiveness without using frameworks like Bootstrap. 
+● Writing dynamic filtering logic purely in Vanilla JavaScript. 
+● Organizing the UI to ensure consistency across different screen sizes. 
+Solutions: 
+Used custom media queries, modular JS functions, and thorough browser testing. Images 
+were optimized for faster loading using reduced resolution formats and compression. 
+9. Conclusion 
+This project successfully demonstrates the fundamental components of an ecommerce 
+frontend. It highlights skills in HTML structuring, CSS styling, JavaScript interactivity, 
+and responsive design. The project lays a foundation for integrating backend support in 
+the future for cart management, authentication, and payment features. The learning 
+outcome includes better understanding of DOM manipulation, event handling, and 
+user-centric UI design. 
