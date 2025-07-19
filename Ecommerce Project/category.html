@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product List</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <h1 id="category-title">Category</h1>
+  <div>
+    <label>Filter by price: </label>
+    <input type="range" id="priceRange" min="0" max="5000" />
+    <span id="priceValue">5000</span>
+  </div>
+  <div id="product-list" class="product-grid"></div>
+
+  <script src="data/products.js"></script>
+  <script src="js/scripts.js"></script>
+</body>
+</html>
